@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, #132c33, #51c4d3);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: white;
+}
+
+.right {
+    float: right;
+}

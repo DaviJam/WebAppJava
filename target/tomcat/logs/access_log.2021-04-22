@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [22/Apr/2021:09:42:03 +0200] "GET /HelloWebApp HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [22/Apr/2021:09:42:03 +0200] "GET /HelloWebApp/ HTTP/1.1" 200 2647 http-bio-8080-exec-4 683
+0:0:0:0:0:0:0:1 - - [22/Apr/2021:09:42:04 +0200] "GET /HelloWebApp/css/accueil-style.css HTTP/1.1" 304 - http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [22/Apr/2021:09:42:16 +0200] "GET /HelloWebApp/login HTTP/1.1" 200 2855 http-bio-8080-exec-6 56
+0:0:0:0:0:0:0:1 - - [22/Apr/2021:09:42:16 +0200] "GET /HelloWebApp/css/style.css HTTP/1.1" 304 - http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [22/Apr/2021:09:43:10 +0200] "POST /HelloWebApp/accueil HTTP/1.1" 200 2647 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [22/Apr/2021:09:43:13 +0200] "GET /HelloWebApp/login HTTP/1.1" 200 2855 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [22/Apr/2021:09:43:41 +0200] "GET /HelloWebApp/accueil?Ident=&Surname=&Name=&Email=&Password= HTTP/1.1" 200 116 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [22/Apr/2021:09:43:46 +0200] "GET /HelloWebApp/ HTTP/1.1" 200 2647 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [22/Apr/2021:09:44:12 +0200] "GET /HelloWebApp/login HTTP/1.1" 200 2855 http-bio-8080-exec-10 2
